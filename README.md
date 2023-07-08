@@ -32,4 +32,6 @@ Uso
 se ha probado poniendo el listado de palabras resultado por osint dentro de la misma carpeta donde se ubica dicsec.py, colocando soli el nombre del archivo txt
 
 Notas:
-dicsec.py genera diferentes archvos .txt para el uso de fuerza bruta,expotando un maximo de lineas; esto con el fin de que no sature los recursos del sistema
+
+- dicsec.py genera diferentes archvos .txt para el uso de fuerza bruta,expotando un maximo de lineas; esto con el fin de que no sature los recursos del sistema.
+- Esta es la version 1.0, se aceptan consejos para la mejora de dicsec.py con el animo de un mejor funcionamiento.
