@@ -1,4 +1,16 @@
 # dicsec
+
+      ██████  ▒█████   ███▄    █ ▓█████▄  ▄▄▄          ▄▄▄       ███▄    █  ▄▄▄       ██▀███   ██ ▄█▀ ▒█████  
+    ▒██    ▒ ▒██▒  ██▒ ██ ▀█   █ ▒██▀ ██▌▒████▄       ▒████▄     ██ ▀█   █ ▒████▄    ▓██ ▒ ██▒ ██▄█▒ ▒██▒  ██▒
+    ░ ▓██▄   ▒██░  ██▒▓██  ▀█ ██▒░██   █▌▒██  ▀█▄     ▒██  ▀█▄  ▓██  ▀█ ██▒▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░ ▒██░  ██▒
+      ▒   ██▒▒██   ██░▓██▒  ▐▌██▒░▓█▄   ▌░██▄▄▄▄██    ░██▄▄▄▄██ ▓██▒  ▐▌██▒░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄ ▒██   ██░
+    ▒██████▒▒░ ████▓▒░▒██░   ▓██░░▒████▓  ▓█   ▓██▒    ▓█   ▓██▒▒██░   ▓██░ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄░ ████▓▒░
+    ▒ ▒▓▒ ▒ ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒  ▒▒▓  ▒  ▒▒   ▓▒█░    ▒▒   ▓▒█░░ ▒░   ▒ ▒  ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒░ ▒░▒░▒░ 
+    ░ ░▒  ░ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░ ░ ▒  ▒   ▒   ▒▒ ░     ▒   ▒▒ ░░ ░░   ░ ▒░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░  ░ ▒ ▒░ 
+    ░  ░  ░  ░ ░ ░ ▒     ░   ░ ░  ░ ░  ░   ░   ▒        ░   ▒      ░   ░ ░   ░   ▒     ░░   ░ ░ ░░ ░ ░ ░ ░ ▒  
+          ░      ░ ░           ░    ░          ░  ░         ░  ░         ░       ░  ░   ░     ░  ░       ░ ░  
+                                      ░                                                                           
+ 
 generador de contraseñas o palabras para ataques de fuerza bruta
 
 La función de este codigo es generar un diccionario de combinaciones de palabras y caracteres especiales. El diccionario se genera a partir de un listado de palabras importantes proporcionado en un archivo de texto. El usuario puede especificar la ubicación del archivo, la longitud máxima de las palabras generadas y otros parámetros opcionales, como la inserción de números y combinaciones de caracteres especiales.
