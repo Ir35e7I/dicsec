@@ -24,3 +24,12 @@ En cuanto a los patrones utilizados en el código:
 5. Uso de módulos externos: Se importan y utilizan módulos externos como `itertools`, `datetime` y `random` para acceder a funcionalidades adicionales.
 6. Manipulación de archivos: Se utiliza la lectura y escritura de archivos para obtener palabras del archivo de entrada y generar el diccionario de combinaciones en archivos de salida.
 7. Uso de entrada/salida de usuario: El código interactúa con el usuario mediante la función `input` para solicitar información y mostrar mensajes.
+
+Uso
+1. Una vez clonado el repositorio se debe tener un archivo .txt dentro del cual deben estar un listado de palabras basico resultado del proceso se OSINT
+2. se ejecuta la aplicación con el comando python3 dicsec.py
+
+se ha probado poniendo el listado de palabras resultado por osint dentro de la misma carpeta donde se ubica dicsec.py, colocando soli el nombre del archivo txt
+
+Notas:
+dicsec.py genera diferentes archvos .txt para el uso de fuerza bruta,expotando un maximo de lineas; esto con el fin de que no sature los recursos del sistema
